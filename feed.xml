@@ -4,12 +4,23 @@
 
   <channel>
     <title>爾道自建</title>
-    <link>http://YOUR_PI_IP/podcast/feed.xml</link>
+    <link>https://realdenniswong.github.io/daily-devotion/feed.xml</link>
     <language>zh-HK</language>
     <description>爾道自建靈修 Podcast</description>
+
     <itunes:author>爾道自建</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity" />
+    </itunes:category>
+    <itunes:image href="https://play-lh.googleusercontent.com/s-0kz4pq9gbwtN1DJcccxsNjuBUAli0el7grCK4ZGtctPyUUTFbraN7Wk4q77U6faFtB5Qx9dktiOteQz0Ek6KI" />
+
+    <image>
+      <url>https://play-lh.googleusercontent.com/s-0kz4pq9gbwtN1DJcccxsNjuBUAli0el7grCK4ZGtctPyUUTFbraN7Wk4q77U6faFtB5Qx9dktiOteQz0Ek6KI</url>
+      <title>爾道自建</title>
+      <link>https://realdenniswong.github.io/daily-devotion/feed.xml</link>
+    </image>
 
     <item>
       <title>2026-07-01｜榮耀的位移</title>
